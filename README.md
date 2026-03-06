@@ -57,8 +57,8 @@ Models were evaluated using:
 ## Video Explanation
 
 Project explanation video:  
-Part A - [https://www.loom.com/share/bfba35f6b0964cb9a98c6e08459fcbc8]
-Part B - [https://www.loom.com/share/a9d95c6d0d2d4e74a2e3bbfab67661d4]
+- Part A - [https://www.loom.com/share/bfba35f6b0964cb9a98c6e08459fcbc8]
+- Part B - [https://www.loom.com/share/a9d95c6d0d2d4e74a2e3bbfab67661d4]
 
 ---
 
